@@ -38,10 +38,10 @@ export default function Page1() {
         </Grid>
         <Grid item md={6} xs={12}>
           <Item sx={{ backgroundColor: 'transparent', padding:'10px' }}>
-            <Typography textAlign='left' variant='h2' color='#EEE5FF'>
+            <Typography textAlign='left' variant='h2' fontWeight='500' color='#EEE5FF'>
               Attract Your Visitors Attention With Colorful 
             </Typography>
-            <GradientText variant='h2' marginBottom='30px'>
+            <GradientText variant='h2' marginBottom='30px' fontWeight='500'>
               Motion Art Effect
             </GradientText>
             <Typography textAlign='left' color='#EEE5FFBD'>
