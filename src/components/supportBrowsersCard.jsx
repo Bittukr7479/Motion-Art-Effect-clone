@@ -22,7 +22,7 @@ export default function MediaControlCard() {
           <Typography component="div" variant="h5" color='white' maxWidth='958px' paddingBottom='15px'>
           Supported by All Popular Browsers
           </Typography>
-          <Typography variant="subtitle1" color="text.secondary" component="div" color='#EEE5FFBD' margin='auto' maxWidth='373px'>
+          <Typography variant="subtitle1" color="text.secondary" component="div" margin='auto' maxWidth='373px'>
           Rest assured, Motion Art is designed to be compatible with all major web browsers.
           </Typography>
         </CardContent>
