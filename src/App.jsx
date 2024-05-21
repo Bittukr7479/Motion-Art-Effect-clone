@@ -132,9 +132,10 @@ export default function ElevateAppBar(props) {
             <RatingPage />
             <Magicpage />
             <Stack padding='100px 0px' >
-              <Typography width='900px' margin='auto' textAlign='center' variant='h4' color="#fff" 
+              <Typography maxWidth='627px' margin='auto' textAlign='center' variant='h4' color="#fff" 
               sx={{
-                width: 'var(--container-widget-width, 45%)'
+                // width: 'var(--container-widget-width, 45%)',
+                fontSize:'2.125rem'
                 }}>
                 Apply On Any Section Or Enable For Whole Page
               </Typography>
